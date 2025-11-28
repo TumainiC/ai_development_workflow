@@ -150,3 +150,6 @@ python workflow_diagram.py
 - `ai_workflow_diagram.png`: Detailed workflow with all stages
 - `ai_workflow_simple.png`: Simplified flowchart 
 
+TEAM MEMBERS 
+Cindy Tumaini
+Hadiza Mohammed
