@@ -1,6 +1,6 @@
 # AI Development Workflow Assignment
 
-## Complete Solution for Hospital Readmission Prediction System
+## Completed Solution for Hospital Re-admission Prediction System
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -25,12 +25,12 @@
 
 This repository contains a comprehensive solution to the AI Development Workflow assignment, demonstrating the complete lifecycle of developing, deploying, and maintaining a machine learning system in healthcare.
 
-**Problem Statement:** Develop an AI system to predict hospital readmission risk within 30 days of discharge, enabling proactive interventions to improve patient outcomes and reduce healthcare costs.
+**Problem Statement:** Develop an AI system to predict hospital adimission risk within 30 days of discharge, enabling pro-active interventions to improve patient outcomes and reduce healthcare costs.
 
 **Key Objectives:**
 - Achieve ≥85% recall (sensitivity) for identifying high-risk patients
 - Maintain fairness across demographic groups (<5% disparity)
-- Ensure HIPAA compliance and clinical interpretability
+- Ensure HIPAA ( health insurance portability and accountability act) compliance and clinical interpretability
 - Deploy an actionable system integrated with hospital workflows
 
 ---
