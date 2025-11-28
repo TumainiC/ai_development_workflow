@@ -555,14 +555,3 @@ Year 4+: Consider neural networks if outcomes justify investment
 
 **Outcome**: Achieve 90% of "ideal" accuracy at 25% of computational cost—a highly favorable trade-off for resource-constrained environments.
 
----
-
-## Conclusion
-
-Critical thinking in AI healthcare deployment requires balancing competing priorities:
-
-1. **Bias Mitigation**: Proactive strategies to ensure equitable outcomes across all patient populations
-2. **Interpretability vs. Accuracy**: Context-dependent decisions favoring clinical trust and safety
-3. **Resource Constraints**: Pragmatic model selection maximizing value within budget limitations
-
-**Key Principle**: The "best" model is not the most accurate, but the one that optimally balances accuracy, fairness, interpretability, cost, and clinical adoption for a specific institutional context.
