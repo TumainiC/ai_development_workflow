@@ -1,4 +1,4 @@
-Problem Definition (6 points)
+Problem Definition
 
 Problem statement:
 Design and develop a real-time speech-to-speech translation system that enables natural voice communication between African languages (including unwritten or low-resource languages) and a pivot language (English or Swahili). The system should work in noisy, low-bandwidth, and dialect-rich environments and preserve meaning, tone, and prosodic cues.
@@ -13,7 +13,7 @@ Stakeholders:
 - Primary: Local communities, field workers, healthcare providers, and market participants who need immediate cross-lingual understanding.
 - Secondary: NGOs, linguistic researchers, language preservation groups, and government agencies.
 
-Problem definition (6 points)
+Problem definition 
 
 Problem statement
 Develop a real-time speech-to-speech translation system that enables direct voice translation between African languages (including unwritten languages such as Rendille) and common lingua francas (English, Swahili). The system should support natural conversational flow, preserve meaning and prosody, and work in low-resource, noisy environments.
@@ -35,7 +35,7 @@ Key performance indicators (KPIs)
 - Per-language robustness: accuracy measured separately per dialect/region.
 - Coverage: number of languages/dialects supported and proportion of population served.
 
-2. Data collection & preprocessing (8 points)
+2. Data collection & preprocessing 
 
 Data sources
 - Field recordings from bilingual speakers collected through structured interviews and natural conversations.
@@ -57,7 +57,7 @@ Preprocessing pipeline
 4. Alignment & quality filtering: automatic heuristics plus human checks to remove corrupted or misaligned pairs.
 5. Metadata collection: speaker demographics, recording conditions, and dialect labels for stratified evaluation.
 
-3. Model development (8 points)
+3. Model development 
 
 Model architecture
 - Recommended approach: modular cascaded or hybrid architecture combining:
@@ -80,7 +80,7 @@ Hyperparameters and training notes
 - Use gradient accumulation to simulate larger batch sizes when memory is limited.
 - Regularization: label smoothing, dropout (0.1–0.3), and weight decay to reduce overfitting.
 
-4. Evaluation & deployment (8 points)
+4. Evaluation & deployment 
 
 Evaluation metrics
 - Latency: end-to-end and component-level (ASR, MT, TTS).
